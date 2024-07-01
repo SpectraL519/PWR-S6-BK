@@ -1,0 +1,10 @@
+Analyzing 'e80062c994267523d097b274b4f1cfd4e2d72bbe6d86bc0cd439feee08fd9aeb'
+[+] Snefru-256
+[+] SHA-256 [Hashcat Mode: 1400]
+[+] RIPEMD-256
+[+] Haval-256
+[+] GOST R 34.11-94 [Hashcat Mode: 6900]
+[+] GOST CryptoPro S-Box
+[+] SHA3-256 [Hashcat Mode: 5000]
+[+] Skein-256
+[+] Skein-512(256)

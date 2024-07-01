@@ -1,0 +1,19 @@
+Analyzing '3eb3a40ba425f7e6e8a332f65e834e21'
+[+] MD2
+[+] MD5 [Hashcat Mode: 0]
+[+] MD4 [Hashcat Mode: 900]
+[+] Double MD5 [Hashcat Mode: 2600]
+[+] LM [Hashcat Mode: 3000]
+[+] RIPEMD-128
+[+] Haval-128
+[+] Tiger-128
+[+] Skein-256(128)
+[+] Skein-512(128)
+[+] Lotus Notes/Domino 5 [Hashcat Mode: 8600]
+[+] Skype [Hashcat Mode: 23]
+[+] Snefru-128
+[+] NTLM [Hashcat Mode: 1000]
+[+] Domain Cached Credentials [Hashcat Mode: 1100]
+[+] Domain Cached Credentials 2 [Hashcat Mode: 2100]
+[+] DNSSEC(NSEC3) [Hashcat Mode: 8300]
+[+] RAdmin v2.x [Hashcat Mode: 9900]
